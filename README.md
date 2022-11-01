@@ -7,7 +7,7 @@ Pillow         9.1.0
 
 run main.py to run the progrem
 
-warning: If you want to install "apex", please find it in https://github.com/NVIDIA/apex to download and download.
+warning: If you want to install "apex", please find it in https://github.com/NVIDIA/apex to download and install.
 
 Train:
 change 'mood' to "train" in config.py

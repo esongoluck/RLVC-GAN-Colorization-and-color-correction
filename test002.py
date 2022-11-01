@@ -1,2 +1,0 @@
-a,b,c,d= map(int, input().split())
-print(abs(a-c)+abs(b-d))

@@ -16,3 +16,5 @@ change 'mood' to "train" in config.py
 # Test:
 change 'mood' to "test" in config.py
 
+#tips
+This program contains the perspective transformation model the corners are in the file "corner",if you don't want the perspective transformation model works please change the corners in "corner" all to "(0,0)

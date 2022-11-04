@@ -6,14 +6,15 @@ scikit-image   0.18.2 <br>
 Pillow         9.1.0 <br>
 apex **（ warning: If you want to install "apex", please find it in https://github.com/NVIDIA/apex to download and install.）**
 
-run main.py to run the progrem <br>
+# run:
+main.py to run the progrem <br>
 
 
-# Train:
+## Train:
 change 'mood' to "train" in config.py
 
 
-# Test:
+## Test:
 change 'mood' to "test" in config.py
 
 # tips

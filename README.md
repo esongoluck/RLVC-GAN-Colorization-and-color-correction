@@ -1,11 +1,11 @@
 # init:
-python         3.9
-opencv-python  4.5.5.64
-torch          1.9.0+cu111
-scikit-image   0.18.2
-Pillow         9.1.0
+python         3.9 <br>
+opencv-python  4.5.5.64 <br>
+torch          1.9.0+cu111 <br>
+scikit-image   0.18.2 <br>
+Pillow         9.1.0 <br>
 
-run main.py to run the progrem
+run main.py to run the progrem <br>
 
 ## warning: If you want to install "apex", please find it in https://github.com/NVIDIA/apex to download and install.
 

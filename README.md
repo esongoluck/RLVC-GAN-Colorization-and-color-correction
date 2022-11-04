@@ -7,7 +7,7 @@ Pillow         9.1.0 <br>
 apex **（ warning: If you want to install "apex", please find it in https://github.com/NVIDIA/apex to download and install.）**
 
 # run:
-main.py to run the progrem <br>
+run main.py to start the progrem <br>
 
 
 ## Train:

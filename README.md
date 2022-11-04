@@ -1,4 +1,4 @@
-# init:
+# environment:
 python         3.9 <br>
 opencv-python  4.5.5.64 <br>
 torch          1.9.0+cu111 <br>

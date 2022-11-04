@@ -18,4 +18,4 @@ change 'mood' to "train" in config.py
 change 'mood' to "test" in config.py
 
 # tips
-This program contains the perspective transformation model the corners are in the file "corners",if you don't want the perspective transformation model works please change the corners in "corner" all to "(0,0)
+This program contains the perspective transformation model the corners are in the file "cut_corners",if you don't want the perspective transformation model works please change the corners in "cut_corners" all to "(0,0)
